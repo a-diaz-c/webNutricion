@@ -1,0 +1,16 @@
+.borde{margin-right: 20px;margin-left: 20px;}
+#centro{
+	width: 100vh;
+	height: 500px;
+	margin: auto;
+}
+.mas{
+	margin-top: 10px;
+}
+body {
+  margin:0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
